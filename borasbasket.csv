@@ -1,0 +1,2674 @@
+{
+  "products": [
+    {
+      "title": "Väska Ivor",
+      "id": 14495,
+      "created_at": "2018-12-05T07:22:40Z",
+      "updated_at": "2019-01-10T07:58:28Z",
+      "type": "simple",
+      "status": "publish",
+      "downloadable": false,
+      "virtual": false,
+      "permalink": "http://www.borasbasket.se/product/vaska-ivor/",
+      "sku": "",
+      "price": "349",
+      "regular_price": "349",
+      "sale_price": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\">349.00<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></span>",
+      "taxable": true,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "managing_stock": false,
+      "stock_quantity": null,
+      "in_stock": true,
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "purchaseable": true,
+      "featured": false,
+      "visible": true,
+      "catalog_visibility": "visible",
+      "on_sale": false,
+      "product_url": "",
+      "button_text": "",
+      "weight": null,
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": "",
+        "unit": "cm"
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": null,
+      "description": "",
+      "short_description": "",
+      "reviews_allowed": true,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+        6940
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "categories": [
+        "Väskor"
+      ],
+      "tags": [],
+      "images": [
+        {
+          "id": 14779,
+          "created_at": "2019-01-10T07:58:21Z",
+          "updated_at": "2019-01-10T07:58:21Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/12/vaska_med_logo.jpg",
+          "title": "vaska_med_logo",
+          "alt": "",
+          "position": 0
+        }
+      ],
+      "featured_src": "http://www.borasbasket.se/wp-content/uploads/2018/12/vaska_med_logo.jpg",
+      "attributes": [],
+      "downloads": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "download_type": "standard",
+      "purchase_note": "",
+      "total_sales": 1,
+      "variations": [],
+      "parent": [],
+      "grouped_products": [],
+      "menu_order": 0
+    },
+    {
+      "title": "Pikétröja Jana herr/dam i funktionsmaterial",
+      "id": 14493,
+      "created_at": "2018-12-05T07:21:30Z",
+      "updated_at": "2019-01-10T08:01:35Z",
+      "type": "simple",
+      "status": "publish",
+      "downloadable": false,
+      "virtual": false,
+      "permalink": "http://www.borasbasket.se/product/piketroja-jana-herr-dam-i-funktionsmaterial/",
+      "sku": "",
+      "price": "329",
+      "regular_price": "329",
+      "sale_price": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\">329.00<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></span>",
+      "taxable": true,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "managing_stock": false,
+      "stock_quantity": null,
+      "in_stock": true,
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "purchaseable": true,
+      "featured": false,
+      "visible": true,
+      "catalog_visibility": "visible",
+      "on_sale": false,
+      "product_url": "",
+      "button_text": "",
+      "weight": null,
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": "",
+        "unit": "cm"
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": null,
+      "description": "",
+      "short_description": "",
+      "reviews_allowed": true,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+        14491,
+        4311,
+        4319
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "categories": [
+        "Piketröjor"
+      ],
+      "tags": [],
+      "images": [
+        {
+          "id": 14782,
+          "created_at": "2019-01-10T08:00:37Z",
+          "updated_at": "2019-01-10T08:00:37Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/12/svart_pike_vita_rander_logo.jpg",
+          "title": "svart_pike_vita_rander_logo",
+          "alt": "",
+          "position": 0
+        }
+      ],
+      "featured_src": "http://www.borasbasket.se/wp-content/uploads/2018/12/svart_pike_vita_rander_logo.jpg",
+      "attributes": [],
+      "downloads": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "download_type": "standard",
+      "purchase_note": "",
+      "total_sales": 0,
+      "variations": [],
+      "parent": [],
+      "grouped_products": [],
+      "menu_order": 0
+    },
+    {
+      "title": "Pikétröja John herr/dam i funktionsmaterial",
+      "id": 14491,
+      "created_at": "2018-12-05T07:19:26Z",
+      "updated_at": "2019-01-10T08:00:16Z",
+      "type": "simple",
+      "status": "publish",
+      "downloadable": false,
+      "virtual": false,
+      "permalink": "http://www.borasbasket.se/product/piketroja-team-herr-dam-i-bomull/",
+      "sku": "",
+      "price": "329",
+      "regular_price": "329",
+      "sale_price": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\">329.00<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></span>",
+      "taxable": true,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "managing_stock": false,
+      "stock_quantity": null,
+      "in_stock": true,
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "purchaseable": true,
+      "featured": false,
+      "visible": true,
+      "catalog_visibility": "visible",
+      "on_sale": false,
+      "product_url": "",
+      "button_text": "",
+      "weight": null,
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": "",
+        "unit": "cm"
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": null,
+      "description": "",
+      "short_description": "",
+      "reviews_allowed": true,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+        14493,
+        4311,
+        4319
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "categories": [
+        "Piketröjor"
+      ],
+      "tags": [],
+      "images": [
+        {
+          "id": 14781,
+          "created_at": "2019-01-10T07:59:43Z",
+          "updated_at": "2019-01-10T07:59:43Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/12/svart_pike__HERR_vita_rander_logo.jpg",
+          "title": "svart_pike__HERR_vita_rander_logo",
+          "alt": "",
+          "position": 0
+        }
+      ],
+      "featured_src": "http://www.borasbasket.se/wp-content/uploads/2018/12/svart_pike__HERR_vita_rander_logo.jpg",
+      "attributes": [],
+      "downloads": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "download_type": "standard",
+      "purchase_note": "",
+      "total_sales": 0,
+      "variations": [],
+      "parent": [],
+      "grouped_products": [],
+      "menu_order": 0
+    },
+    {
+      "title": "Fleece David",
+      "id": 14489,
+      "created_at": "2018-12-05T07:15:40Z",
+      "updated_at": "2019-04-12T11:30:52Z",
+      "type": "variable",
+      "status": "publish",
+      "downloadable": false,
+      "virtual": false,
+      "permalink": "http://www.borasbasket.se/product/fleece-david/",
+      "sku": "",
+      "price": "499",
+      "regular_price": "",
+      "sale_price": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\">499.00<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></span>",
+      "taxable": true,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "managing_stock": false,
+      "stock_quantity": null,
+      "in_stock": true,
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "purchaseable": true,
+      "featured": false,
+      "visible": true,
+      "catalog_visibility": "visible",
+      "on_sale": false,
+      "product_url": "",
+      "button_text": "",
+      "weight": null,
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": "",
+        "unit": "cm"
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": null,
+      "description": "",
+      "short_description": "",
+      "reviews_allowed": true,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+        7900,
+        3694,
+        7826,
+        4069,
+        4319
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "categories": [
+        "Tröjor"
+      ],
+      "tags": [],
+      "images": [
+        {
+          "id": 14780,
+          "created_at": "2019-01-10T07:59:05Z",
+          "updated_at": "2019-01-10T07:59:05Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/12/fleece_jacka_med_logo.jpg",
+          "title": "fleece_jacka_med_logo",
+          "alt": "",
+          "position": 0
+        }
+      ],
+      "featured_src": "http://www.borasbasket.se/wp-content/uploads/2018/12/fleece_jacka_med_logo.jpg",
+      "attributes": [
+        {
+          "name": "Storlek",
+          "slug": "Storlek",
+          "position": 0,
+          "visible": true,
+          "variation": true,
+          "options": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL",
+            "4XL"
+          ]
+        }
+      ],
+      "downloads": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "download_type": "standard",
+      "purchase_note": "",
+      "total_sales": 1,
+      "variations": [
+        {
+          "id": 15571,
+          "created_at": "2019-04-12T11:26:56Z",
+          "updated_at": "2019-04-12T11:26:56Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/fleece-david/?attribute_storlek=XXS",
+          "sku": "",
+          "price": "499",
+          "regular_price": "499",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 14780,
+              "created_at": "2019-01-10T07:59:05Z",
+              "updated_at": "2019-01-10T07:59:05Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/12/fleece_jacka_med_logo.jpg",
+              "title": "fleece_jacka_med_logo",
+              "alt": "",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "XXS"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 15572,
+          "created_at": "2019-04-12T11:26:56Z",
+          "updated_at": "2019-04-12T11:26:56Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/fleece-david/?attribute_storlek=XS",
+          "sku": "",
+          "price": "499",
+          "regular_price": "499",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 14780,
+              "created_at": "2019-01-10T07:59:05Z",
+              "updated_at": "2019-01-10T07:59:05Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/12/fleece_jacka_med_logo.jpg",
+              "title": "fleece_jacka_med_logo",
+              "alt": "",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "XS"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 15573,
+          "created_at": "2019-04-12T11:26:56Z",
+          "updated_at": "2019-04-12T11:26:56Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/fleece-david/?attribute_storlek=S",
+          "sku": "",
+          "price": "499",
+          "regular_price": "499",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 14780,
+              "created_at": "2019-01-10T07:59:05Z",
+              "updated_at": "2019-01-10T07:59:05Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/12/fleece_jacka_med_logo.jpg",
+              "title": "fleece_jacka_med_logo",
+              "alt": "",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "S"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 15574,
+          "created_at": "2019-04-12T11:26:57Z",
+          "updated_at": "2019-04-12T11:26:57Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/fleece-david/?attribute_storlek=M",
+          "sku": "",
+          "price": "499",
+          "regular_price": "499",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 14780,
+              "created_at": "2019-01-10T07:59:05Z",
+              "updated_at": "2019-01-10T07:59:05Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/12/fleece_jacka_med_logo.jpg",
+              "title": "fleece_jacka_med_logo",
+              "alt": "",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "M"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 15575,
+          "created_at": "2019-04-12T11:26:57Z",
+          "updated_at": "2019-04-12T11:26:57Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/fleece-david/?attribute_storlek=L",
+          "sku": "",
+          "price": "499",
+          "regular_price": "499",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 14780,
+              "created_at": "2019-01-10T07:59:05Z",
+              "updated_at": "2019-01-10T07:59:05Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/12/fleece_jacka_med_logo.jpg",
+              "title": "fleece_jacka_med_logo",
+              "alt": "",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "L"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 15576,
+          "created_at": "2019-04-12T11:26:57Z",
+          "updated_at": "2019-04-12T11:26:57Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/fleece-david/?attribute_storlek=XL",
+          "sku": "",
+          "price": "499",
+          "regular_price": "499",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 14780,
+              "created_at": "2019-01-10T07:59:05Z",
+              "updated_at": "2019-01-10T07:59:05Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/12/fleece_jacka_med_logo.jpg",
+              "title": "fleece_jacka_med_logo",
+              "alt": "",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "XL"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 15577,
+          "created_at": "2019-04-12T11:26:58Z",
+          "updated_at": "2019-04-12T11:26:58Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/fleece-david/?attribute_storlek=XXL",
+          "sku": "",
+          "price": "499",
+          "regular_price": "499",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 14780,
+              "created_at": "2019-01-10T07:59:05Z",
+              "updated_at": "2019-01-10T07:59:05Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/12/fleece_jacka_med_logo.jpg",
+              "title": "fleece_jacka_med_logo",
+              "alt": "",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "XXL"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 15578,
+          "created_at": "2019-04-12T11:26:58Z",
+          "updated_at": "2019-04-12T11:26:58Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/fleece-david/?attribute_storlek=3XL",
+          "sku": "",
+          "price": "499",
+          "regular_price": "499",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 14780,
+              "created_at": "2019-01-10T07:59:05Z",
+              "updated_at": "2019-01-10T07:59:05Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/12/fleece_jacka_med_logo.jpg",
+              "title": "fleece_jacka_med_logo",
+              "alt": "",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "3XL"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 15579,
+          "created_at": "2019-04-12T11:26:58Z",
+          "updated_at": "2019-04-12T11:26:58Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/fleece-david/?attribute_storlek=4XL",
+          "sku": "",
+          "price": "499",
+          "regular_price": "499",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 14780,
+              "created_at": "2019-01-10T07:59:05Z",
+              "updated_at": "2019-01-10T07:59:05Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/12/fleece_jacka_med_logo.jpg",
+              "title": "fleece_jacka_med_logo",
+              "alt": "",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "4XL"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        }
+      ],
+      "parent": [],
+      "grouped_products": [],
+      "menu_order": 0
+    },
+    {
+      "title": "HALSDUK",
+      "id": 10080,
+      "created_at": "2017-10-13T08:47:22Z",
+      "updated_at": "2017-10-13T08:47:22Z",
+      "type": "simple",
+      "status": "publish",
+      "downloadable": false,
+      "virtual": false,
+      "permalink": "http://www.borasbasket.se/product/halsduk/",
+      "sku": "",
+      "price": "100",
+      "regular_price": "100",
+      "sale_price": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\">100.00<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></span>",
+      "taxable": true,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "managing_stock": false,
+      "stock_quantity": null,
+      "in_stock": true,
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "purchaseable": true,
+      "featured": false,
+      "visible": true,
+      "catalog_visibility": "visible",
+      "on_sale": false,
+      "product_url": "",
+      "button_text": "",
+      "weight": null,
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": "",
+        "unit": "cm"
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": null,
+      "description": "<p class=\"p1\"><span class=\"s1\"><b>Halsduk - Borås Basket</b></span></p>\n<p class=\"p1\"><span class=\"s1\">Produktbeskrivning: Svart halsduk med orange text. \"Borås Basket\" på ena sidan och \"Enjoy The Passion\" på andra. Borås Baskets klubbmärke finns i orange på fyra ställen.</span><span class=\"s1\"> </span></p>\n<p class=\"p1\"><span class=\"s1\">Pris: 100 kr. </span></p>\n",
+      "short_description": "",
+      "reviews_allowed": false,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+        7875,
+        4109,
+        5233,
+        7869,
+        5239
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "categories": [
+        "Övrigt"
+      ],
+      "tags": [],
+      "images": [
+        {
+          "id": 12739,
+          "created_at": "2018-06-05T11:54:23Z",
+          "updated_at": "2018-06-05T11:54:23Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/halsduk.jpg",
+          "title": "HALSDUK 1",
+          "alt": "HALSDUK",
+          "position": 0
+        },
+        {
+          "id": 12740,
+          "created_at": "2018-06-05T11:54:23Z",
+          "updated_at": "2018-06-05T11:54:23Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/halsduk2.jpg",
+          "title": "HALSDUK 2",
+          "alt": "HALSDUK",
+          "position": 1
+        },
+        {
+          "id": 12741,
+          "created_at": "2018-06-05T11:54:23Z",
+          "updated_at": "2018-06-05T11:54:23Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/halsduk3.jpg",
+          "title": "HALSDUK 3",
+          "alt": "HALSDUK",
+          "position": 2
+        }
+      ],
+      "featured_src": "http://www.borasbasket.se/wp-content/uploads/2018/06/halsduk.jpg",
+      "attributes": [],
+      "downloads": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "download_type": "standard",
+      "purchase_note": "",
+      "total_sales": 1,
+      "variations": [],
+      "parent": [],
+      "grouped_products": [],
+      "menu_order": 4
+    },
+    {
+      "title": "T-SHIRT DAM - BORÅS BASKETBALL",
+      "id": 7900,
+      "created_at": "2016-12-14T07:41:45Z",
+      "updated_at": "2019-04-05T11:21:14Z",
+      "type": "variable",
+      "status": "publish",
+      "downloadable": false,
+      "virtual": false,
+      "permalink": "http://www.borasbasket.se/product/t-shirt-dam-boras-basketball-2/",
+      "sku": "",
+      "price": "149",
+      "regular_price": "",
+      "sale_price": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\">149.00<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></span>",
+      "taxable": true,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "managing_stock": false,
+      "stock_quantity": null,
+      "in_stock": true,
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "purchaseable": true,
+      "featured": false,
+      "visible": true,
+      "catalog_visibility": "visible",
+      "on_sale": false,
+      "product_url": "",
+      "button_text": "",
+      "weight": null,
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": "",
+        "unit": "cm"
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": null,
+      "description": "<p class=\"p1\"><span class=\"s1\"><b>Modell</b>: Kortärmad t-shirt i dammodell från Errea Sport, med stort tryck – ”Borås Basketball”. </span></p>\n<p class=\"p1\"><span class=\"s1\"><b>Material</b>: 100% bomull.</span></p>\n<p class=\"p1\"><span class=\"s1\"><b>Storlekar</b>: XS-XXL och 104-152cl.</span></p>\n<p class=\"p1\"><span class=\"s1\"><strong>Pris:</strong> 149 kr.</span></p>\n",
+      "short_description": "",
+      "reviews_allowed": false,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+        14489,
+        4078,
+        4069,
+        4319,
+        3694
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "categories": [
+        "T-Shirt",
+        "Tröjor"
+      ],
+      "tags": [],
+      "images": [
+        {
+          "id": 12738,
+          "created_at": "2018-06-05T11:54:22Z",
+          "updated_at": "2018-06-05T11:54:22Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/T-SHIRT-DAM.jpg",
+          "title": "T-SHIRT DAM &#8211; BORÅS BASKETBALL 1",
+          "alt": "T-SHIRT DAM - BORÅS BASKETBALL",
+          "position": 0
+        }
+      ],
+      "featured_src": "http://www.borasbasket.se/wp-content/uploads/2018/06/T-SHIRT-DAM.jpg",
+      "attributes": [
+        {
+          "name": "Storlek",
+          "slug": "Storlek",
+          "position": 0,
+          "visible": true,
+          "variation": true,
+          "options": [
+            "104",
+            "116",
+            "128",
+            " 140 ",
+            "152 ",
+            "XS",
+            "S",
+            " M ",
+            "L",
+            "XL",
+            " XXL"
+          ]
+        }
+      ],
+      "downloads": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "download_type": "standard",
+      "purchase_note": "",
+      "total_sales": 11,
+      "variations": [
+        {
+          "id": 12820,
+          "created_at": "2018-06-08T06:18:25Z",
+          "updated_at": "2018-06-08T06:18:25Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-dam-boras-basketball-2/?attribute_storlek=104",
+          "sku": "",
+          "price": "149",
+          "regular_price": "149",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12738,
+              "created_at": "2018-06-05T11:54:22Z",
+              "updated_at": "2018-06-05T11:54:22Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/T-SHIRT-DAM.jpg",
+              "title": "T-SHIRT DAM &#8211; BORÅS BASKETBALL 1",
+              "alt": "T-SHIRT DAM - BORÅS BASKETBALL",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "104"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12821,
+          "created_at": "2018-06-08T06:18:25Z",
+          "updated_at": "2018-06-08T06:18:25Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-dam-boras-basketball-2/?attribute_storlek=116",
+          "sku": "",
+          "price": "149",
+          "regular_price": "149",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12738,
+              "created_at": "2018-06-05T11:54:22Z",
+              "updated_at": "2018-06-05T11:54:22Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/T-SHIRT-DAM.jpg",
+              "title": "T-SHIRT DAM &#8211; BORÅS BASKETBALL 1",
+              "alt": "T-SHIRT DAM - BORÅS BASKETBALL",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "116"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12822,
+          "created_at": "2018-06-08T06:18:26Z",
+          "updated_at": "2018-06-08T06:18:26Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-dam-boras-basketball-2/?attribute_storlek=128",
+          "sku": "",
+          "price": "149",
+          "regular_price": "149",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12738,
+              "created_at": "2018-06-05T11:54:22Z",
+              "updated_at": "2018-06-05T11:54:22Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/T-SHIRT-DAM.jpg",
+              "title": "T-SHIRT DAM &#8211; BORÅS BASKETBALL 1",
+              "alt": "T-SHIRT DAM - BORÅS BASKETBALL",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "128"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12823,
+          "created_at": "2018-06-08T06:18:26Z",
+          "updated_at": "2018-06-08T06:18:26Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-dam-boras-basketball-2/?attribute_storlek=%C2%A0140%C2%A0",
+          "sku": "",
+          "price": "149",
+          "regular_price": "149",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12738,
+              "created_at": "2018-06-05T11:54:22Z",
+              "updated_at": "2018-06-05T11:54:22Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/T-SHIRT-DAM.jpg",
+              "title": "T-SHIRT DAM &#8211; BORÅS BASKETBALL 1",
+              "alt": "T-SHIRT DAM - BORÅS BASKETBALL",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": " 140 "
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12824,
+          "created_at": "2018-06-08T06:18:26Z",
+          "updated_at": "2018-06-08T06:18:26Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-dam-boras-basketball-2/?attribute_storlek=152%C2%A0",
+          "sku": "",
+          "price": "149",
+          "regular_price": "149",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12738,
+              "created_at": "2018-06-05T11:54:22Z",
+              "updated_at": "2018-06-05T11:54:22Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/T-SHIRT-DAM.jpg",
+              "title": "T-SHIRT DAM &#8211; BORÅS BASKETBALL 1",
+              "alt": "T-SHIRT DAM - BORÅS BASKETBALL",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "152 "
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12825,
+          "created_at": "2018-06-08T06:18:26Z",
+          "updated_at": "2018-06-08T06:18:26Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-dam-boras-basketball-2/?attribute_storlek=XS",
+          "sku": "",
+          "price": "149",
+          "regular_price": "149",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12738,
+              "created_at": "2018-06-05T11:54:22Z",
+              "updated_at": "2018-06-05T11:54:22Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/T-SHIRT-DAM.jpg",
+              "title": "T-SHIRT DAM &#8211; BORÅS BASKETBALL 1",
+              "alt": "T-SHIRT DAM - BORÅS BASKETBALL",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "XS"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12826,
+          "created_at": "2018-06-08T06:18:26Z",
+          "updated_at": "2018-06-08T06:18:26Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-dam-boras-basketball-2/?attribute_storlek=S",
+          "sku": "",
+          "price": "149",
+          "regular_price": "149",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12738,
+              "created_at": "2018-06-05T11:54:22Z",
+              "updated_at": "2018-06-05T11:54:22Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/T-SHIRT-DAM.jpg",
+              "title": "T-SHIRT DAM &#8211; BORÅS BASKETBALL 1",
+              "alt": "T-SHIRT DAM - BORÅS BASKETBALL",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "S"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12827,
+          "created_at": "2018-06-08T06:18:27Z",
+          "updated_at": "2018-06-08T06:18:27Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-dam-boras-basketball-2/?attribute_storlek=%C2%A0M%C2%A0",
+          "sku": "",
+          "price": "149",
+          "regular_price": "149",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12738,
+              "created_at": "2018-06-05T11:54:22Z",
+              "updated_at": "2018-06-05T11:54:22Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/T-SHIRT-DAM.jpg",
+              "title": "T-SHIRT DAM &#8211; BORÅS BASKETBALL 1",
+              "alt": "T-SHIRT DAM - BORÅS BASKETBALL",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": " M "
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12828,
+          "created_at": "2018-06-08T06:18:27Z",
+          "updated_at": "2018-06-08T06:18:27Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-dam-boras-basketball-2/?attribute_storlek=L",
+          "sku": "",
+          "price": "149",
+          "regular_price": "149",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12738,
+              "created_at": "2018-06-05T11:54:22Z",
+              "updated_at": "2018-06-05T11:54:22Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/T-SHIRT-DAM.jpg",
+              "title": "T-SHIRT DAM &#8211; BORÅS BASKETBALL 1",
+              "alt": "T-SHIRT DAM - BORÅS BASKETBALL",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "L"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12829,
+          "created_at": "2018-06-08T06:18:27Z",
+          "updated_at": "2018-06-08T06:18:27Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-dam-boras-basketball-2/?attribute_storlek=XL",
+          "sku": "",
+          "price": "149",
+          "regular_price": "149",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12738,
+              "created_at": "2018-06-05T11:54:22Z",
+              "updated_at": "2018-06-05T11:54:22Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/T-SHIRT-DAM.jpg",
+              "title": "T-SHIRT DAM &#8211; BORÅS BASKETBALL 1",
+              "alt": "T-SHIRT DAM - BORÅS BASKETBALL",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "XL"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12830,
+          "created_at": "2018-06-08T06:18:27Z",
+          "updated_at": "2018-06-08T06:18:27Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-dam-boras-basketball-2/?attribute_storlek=%C2%A0XXL",
+          "sku": "",
+          "price": "149",
+          "regular_price": "149",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12738,
+              "created_at": "2018-06-05T11:54:22Z",
+              "updated_at": "2018-06-05T11:54:22Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/T-SHIRT-DAM.jpg",
+              "title": "T-SHIRT DAM &#8211; BORÅS BASKETBALL 1",
+              "alt": "T-SHIRT DAM - BORÅS BASKETBALL",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": " XXL"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        }
+      ],
+      "parent": [],
+      "grouped_products": [],
+      "menu_order": 37
+    },
+    {
+      "title": "MÖSSA - BORÅS BASKET",
+      "id": 7885,
+      "created_at": "2016-12-14T07:16:25Z",
+      "updated_at": "2018-12-14T10:43:33Z",
+      "type": "variable",
+      "status": "publish",
+      "downloadable": false,
+      "virtual": false,
+      "permalink": "http://www.borasbasket.se/product/mossa/",
+      "sku": "",
+      "price": "49",
+      "regular_price": "",
+      "sale_price": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\">49.00<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></span>",
+      "taxable": true,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "managing_stock": false,
+      "stock_quantity": null,
+      "in_stock": true,
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "purchaseable": true,
+      "featured": false,
+      "visible": true,
+      "catalog_visibility": "visible",
+      "on_sale": false,
+      "product_url": "",
+      "button_text": "",
+      "weight": null,
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": "",
+        "unit": "cm"
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": null,
+      "description": "<p class=\"p1\"><span class=\"s1\"><strong>Produktbeskrivning:</strong> </span><span class=\"s1\">Svart fleece-mössa med Borås Baskets klubbmärke i brodyr fram och \"Enjoy The Passion\" bak.</span></p>\n<p class=\"p2\"><span class=\"s1\"><b>Storlekar</b>: Vuxen, Barn.</span></p>\n<p class=\"p2\"><span class=\"s1\"><strong>Pris:</strong> 49 kr.</span></p>\n",
+      "short_description": "",
+      "reviews_allowed": false,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+        4109,
+        7875,
+        10080,
+        5236,
+        7869
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "categories": [
+        "Övrigt"
+      ],
+      "tags": [],
+      "images": [
+        {
+          "id": 12736,
+          "created_at": "2018-06-05T11:54:22Z",
+          "updated_at": "2018-06-05T11:54:22Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/mossa.jpg",
+          "title": "MÖSSA &#8211; BORÅS BASKET 1",
+          "alt": "MÖSSA - BORÅS BASKET",
+          "position": 0
+        },
+        {
+          "id": 12737,
+          "created_at": "2018-06-05T11:54:22Z",
+          "updated_at": "2018-06-05T11:54:22Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/mossa2.jpg",
+          "title": "MÖSSA &#8211; BORÅS BASKET 2",
+          "alt": "MÖSSA - BORÅS BASKET",
+          "position": 1
+        }
+      ],
+      "featured_src": "http://www.borasbasket.se/wp-content/uploads/2018/06/mossa.jpg",
+      "attributes": [
+        {
+          "name": "Storlek",
+          "slug": "Storlek",
+          "position": 0,
+          "visible": true,
+          "variation": true,
+          "options": [
+            "Vuxen",
+            "Barn"
+          ]
+        }
+      ],
+      "downloads": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "download_type": "standard",
+      "purchase_note": "",
+      "total_sales": 1,
+      "variations": [
+        {
+          "id": 12831,
+          "created_at": "2018-06-08T06:20:00Z",
+          "updated_at": "2018-06-08T06:20:00Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/mossa/?attribute_storlek=Vuxen",
+          "sku": "",
+          "price": "49",
+          "regular_price": "49",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12736,
+              "created_at": "2018-06-05T11:54:22Z",
+              "updated_at": "2018-06-05T11:54:22Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/mossa.jpg",
+              "title": "MÖSSA &#8211; BORÅS BASKET 1",
+              "alt": "MÖSSA - BORÅS BASKET",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "Vuxen"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12832,
+          "created_at": "2018-06-08T06:20:00Z",
+          "updated_at": "2018-06-08T06:20:00Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/mossa/?attribute_storlek=Barn",
+          "sku": "",
+          "price": "49",
+          "regular_price": "49",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12736,
+              "created_at": "2018-06-05T11:54:22Z",
+              "updated_at": "2018-06-05T11:54:22Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/mossa.jpg",
+              "title": "MÖSSA &#8211; BORÅS BASKET 1",
+              "alt": "MÖSSA - BORÅS BASKET",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "Barn"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        }
+      ],
+      "parent": [],
+      "grouped_products": [],
+      "menu_order": 0
+    },
+    {
+      "title": "\"Rekordsäsongen\" på DVD",
+      "id": 7875,
+      "created_at": "2016-12-13T08:46:24Z",
+      "updated_at": "2016-12-13T08:46:24Z",
+      "type": "simple",
+      "status": "publish",
+      "downloadable": false,
+      "virtual": false,
+      "permalink": "http://www.borasbasket.se/product/rekordsasongen-dvd/",
+      "sku": "",
+      "price": "39",
+      "regular_price": "39",
+      "sale_price": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\">39.00<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></span>",
+      "taxable": true,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "managing_stock": false,
+      "stock_quantity": null,
+      "in_stock": true,
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "purchaseable": true,
+      "featured": false,
+      "visible": true,
+      "catalog_visibility": "visible",
+      "on_sale": false,
+      "product_url": "",
+      "button_text": "",
+      "weight": null,
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": "",
+        "unit": "cm"
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": null,
+      "description": "<p class=\"p1\"><span class=\"s1\">Produktbeskrivning: </span><span class=\"s1\">Dokumentärfilmen \"Resan är målet\". Handlar om \"rekordsäsongen\" 2013/14,  då Borås Basket vann 22 raka matcher. </span></p>\n<p class=\"p1\"><span class=\"s1\">Pris: 39 kr. </span></p>\n",
+      "short_description": "",
+      "reviews_allowed": false,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+        5236,
+        10080,
+        5239,
+        5233,
+        7885
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "categories": [
+        "Övrigt"
+      ],
+      "tags": [],
+      "images": [
+        {
+          "id": 12735,
+          "created_at": "2018-06-05T11:54:22Z",
+          "updated_at": "2018-06-05T11:54:22Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/dvd_12.jpg",
+          "title": "&#8221;Rekordsäsongen&#8221; på DVD 1",
+          "alt": "\"Rekordsäsongen\" på DVD",
+          "position": 0
+        }
+      ],
+      "featured_src": "http://www.borasbasket.se/wp-content/uploads/2018/06/dvd_12.jpg",
+      "attributes": [],
+      "downloads": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "download_type": "standard",
+      "purchase_note": "",
+      "total_sales": 0,
+      "variations": [],
+      "parent": [],
+      "grouped_products": [],
+      "menu_order": 2
+    },
+    {
+      "title": "Multihyvel",
+      "id": 7869,
+      "created_at": "2016-12-13T08:41:28Z",
+      "updated_at": "2016-12-13T08:41:28Z",
+      "type": "simple",
+      "status": "publish",
+      "downloadable": false,
+      "virtual": false,
+      "permalink": "http://www.borasbasket.se/product/multihyvel/",
+      "sku": "",
+      "price": "49",
+      "regular_price": "49",
+      "sale_price": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\">49.00<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></span>",
+      "taxable": true,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "managing_stock": false,
+      "stock_quantity": null,
+      "in_stock": true,
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "purchaseable": true,
+      "featured": false,
+      "visible": true,
+      "catalog_visibility": "visible",
+      "on_sale": false,
+      "product_url": "",
+      "button_text": "",
+      "weight": null,
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": "",
+        "unit": "cm"
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": null,
+      "description": "<p class=\"p1\"><span class=\"s1\">Produktbeskrivning: </span><span class=\"s1\">Multihyvel (för bl.a. ost), med Borås Baskets klubbmärke i orange. </span></p>\n<p class=\"p1\"><span class=\"s1\">Pris: 49 kr. </span></p>\n",
+      "short_description": "",
+      "reviews_allowed": false,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+        10080,
+        5233,
+        5239,
+        4109,
+        7885
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "categories": [
+        "Övrigt"
+      ],
+      "tags": [],
+      "images": [
+        {
+          "id": 12732,
+          "created_at": "2018-06-05T11:54:22Z",
+          "updated_at": "2018-06-05T11:54:22Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/multihyvel_1.jpg",
+          "title": "Multihyvel 1",
+          "alt": "Multihyvel",
+          "position": 0
+        },
+        {
+          "id": 12733,
+          "created_at": "2018-06-05T11:54:22Z",
+          "updated_at": "2018-06-05T11:54:22Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/multihyvel_1_logo.jpg",
+          "title": "Multihyvel 2",
+          "alt": "Multihyvel",
+          "position": 1
+        },
+        {
+          "id": 12734,
+          "created_at": "2018-06-05T11:54:22Z",
+          "updated_at": "2018-06-05T11:54:22Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/multihyvel_2.jpg",
+          "title": "Multihyvel 3",
+          "alt": "Multihyvel",
+          "position": 2
+        }
+      ],
+      "featured_src": "http://www.borasbasket.se/wp-content/uploads/2018/06/multihyvel_1.jpg",
+      "attributes": [],
+      "downloads": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "download_type": "standard",
+      "purchase_note": "",
+      "total_sales": 0,
+      "variations": [],
+      "parent": [],
+      "grouped_products": [],
+      "menu_order": 3
+    },
+    {
+      "title": "T-shirt - The Fredder",
+      "id": 7851,
+      "created_at": "2016-12-12T13:41:15Z",
+      "updated_at": "2019-04-05T11:21:33Z",
+      "type": "variable",
+      "status": "publish",
+      "downloadable": false,
+      "virtual": false,
+      "permalink": "http://www.borasbasket.se/product/t-shirt-the-fredder/",
+      "sku": "",
+      "price": "169",
+      "regular_price": "",
+      "sale_price": null,
+      "price_html": "<span class=\"woocommerce-Price-amount amount\">169.00<span class=\"woocommerce-Price-currencySymbol\">&#107;&#114;</span></span>",
+      "taxable": true,
+      "tax_status": "taxable",
+      "tax_class": "",
+      "managing_stock": false,
+      "stock_quantity": null,
+      "in_stock": true,
+      "backorders_allowed": false,
+      "backordered": false,
+      "sold_individually": false,
+      "purchaseable": true,
+      "featured": false,
+      "visible": true,
+      "catalog_visibility": "visible",
+      "on_sale": false,
+      "product_url": "",
+      "button_text": "",
+      "weight": null,
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": "",
+        "unit": "cm"
+      },
+      "shipping_required": true,
+      "shipping_taxable": true,
+      "shipping_class": "",
+      "shipping_class_id": null,
+      "description": "<p class=\"p1\"><span class=\"s1\"><strong>Modell:</strong> Orange Glow Series: The Fredder (Fredrik Andersson).<br /></span></p>\n<p class=\"p1\"><span class=\"s1\"><strong>Design:</strong> Mike Palm. </span></p>\n<p class=\"p1\"><span class=\"s1\"><strong>Tillverkare</strong>: Errea Sport.</span></p>\n<p class=\"p1\"><span class=\"s1\"><strong>Material:</strong> 100% bomull. </span></p>\n<p class=\"p1\"><span class=\"s1\"><strong>Storlekar:</strong> S-XXL och 104-152cl.</span></p>\n<p class=\"p1\">Borås Baskets klubbmärke finns tryckt i nacken.</p>\n",
+      "short_description": "",
+      "reviews_allowed": false,
+      "average_rating": "0.00",
+      "rating_count": 0,
+      "related_ids": [
+        4078,
+        7900,
+        6937,
+        3694,
+        4319
+      ],
+      "upsell_ids": [],
+      "cross_sell_ids": [],
+      "parent_id": 0,
+      "categories": [
+        "T-Shirt",
+        "Tröjor"
+      ],
+      "tags": [],
+      "images": [
+        {
+          "id": 12729,
+          "created_at": "2018-06-05T11:54:20Z",
+          "updated_at": "2018-06-05T11:54:20Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/TheFredder2.jpg",
+          "title": "T-shirt &#8211; The Fredder 1",
+          "alt": "T-shirt - The Fredder",
+          "position": 0
+        },
+        {
+          "id": 12730,
+          "created_at": "2018-06-05T11:54:20Z",
+          "updated_at": "2018-06-05T11:54:20Z",
+          "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/logo-shirt-back-2.jpg",
+          "title": "T-shirt &#8211; The Fredder 2",
+          "alt": "T-shirt - The Fredder",
+          "position": 1
+        }
+      ],
+      "featured_src": "http://www.borasbasket.se/wp-content/uploads/2018/06/TheFredder2.jpg",
+      "attributes": [
+        {
+          "name": "Storlek",
+          "slug": "Storlek",
+          "position": 0,
+          "visible": true,
+          "variation": true,
+          "options": [
+            "104",
+            "116",
+            "128",
+            " 140 ",
+            "152 ",
+            "S",
+            " M ",
+            "L",
+            "XL",
+            " XXL"
+          ]
+        }
+      ],
+      "downloads": [],
+      "download_limit": -1,
+      "download_expiry": -1,
+      "download_type": "standard",
+      "purchase_note": "",
+      "total_sales": 0,
+      "variations": [
+        {
+          "id": 12833,
+          "created_at": "2018-06-08T06:20:59Z",
+          "updated_at": "2018-06-08T06:20:59Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-the-fredder/?attribute_storlek=104",
+          "sku": "",
+          "price": "169",
+          "regular_price": "169",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12729,
+              "created_at": "2018-06-05T11:54:20Z",
+              "updated_at": "2018-06-05T11:54:20Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/TheFredder2.jpg",
+              "title": "T-shirt &#8211; The Fredder 1",
+              "alt": "T-shirt - The Fredder",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "104"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12834,
+          "created_at": "2018-06-08T06:20:59Z",
+          "updated_at": "2018-06-08T06:20:59Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-the-fredder/?attribute_storlek=116",
+          "sku": "",
+          "price": "169",
+          "regular_price": "169",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12729,
+              "created_at": "2018-06-05T11:54:20Z",
+              "updated_at": "2018-06-05T11:54:20Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/TheFredder2.jpg",
+              "title": "T-shirt &#8211; The Fredder 1",
+              "alt": "T-shirt - The Fredder",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "116"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12835,
+          "created_at": "2018-06-08T06:21:00Z",
+          "updated_at": "2018-06-08T06:21:00Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-the-fredder/?attribute_storlek=128",
+          "sku": "",
+          "price": "169",
+          "regular_price": "169",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12729,
+              "created_at": "2018-06-05T11:54:20Z",
+              "updated_at": "2018-06-05T11:54:20Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/TheFredder2.jpg",
+              "title": "T-shirt &#8211; The Fredder 1",
+              "alt": "T-shirt - The Fredder",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "128"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12836,
+          "created_at": "2018-06-08T06:21:00Z",
+          "updated_at": "2018-06-08T06:21:00Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-the-fredder/?attribute_storlek=%C2%A0140%C2%A0",
+          "sku": "",
+          "price": "169",
+          "regular_price": "169",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12729,
+              "created_at": "2018-06-05T11:54:20Z",
+              "updated_at": "2018-06-05T11:54:20Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/TheFredder2.jpg",
+              "title": "T-shirt &#8211; The Fredder 1",
+              "alt": "T-shirt - The Fredder",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": " 140 "
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12837,
+          "created_at": "2018-06-08T06:21:00Z",
+          "updated_at": "2018-06-08T06:21:00Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-the-fredder/?attribute_storlek=152%C2%A0",
+          "sku": "",
+          "price": "169",
+          "regular_price": "169",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12729,
+              "created_at": "2018-06-05T11:54:20Z",
+              "updated_at": "2018-06-05T11:54:20Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/TheFredder2.jpg",
+              "title": "T-shirt &#8211; The Fredder 1",
+              "alt": "T-shirt - The Fredder",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "152 "
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12838,
+          "created_at": "2018-06-08T06:21:00Z",
+          "updated_at": "2018-06-08T06:21:00Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-the-fredder/?attribute_storlek=S",
+          "sku": "",
+          "price": "169",
+          "regular_price": "169",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12729,
+              "created_at": "2018-06-05T11:54:20Z",
+              "updated_at": "2018-06-05T11:54:20Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/TheFredder2.jpg",
+              "title": "T-shirt &#8211; The Fredder 1",
+              "alt": "T-shirt - The Fredder",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "S"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12839,
+          "created_at": "2018-06-08T06:21:00Z",
+          "updated_at": "2018-06-08T06:21:00Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-the-fredder/?attribute_storlek=%C2%A0M%C2%A0",
+          "sku": "",
+          "price": "169",
+          "regular_price": "169",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12729,
+              "created_at": "2018-06-05T11:54:20Z",
+              "updated_at": "2018-06-05T11:54:20Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/TheFredder2.jpg",
+              "title": "T-shirt &#8211; The Fredder 1",
+              "alt": "T-shirt - The Fredder",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": " M "
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12840,
+          "created_at": "2018-06-08T06:21:01Z",
+          "updated_at": "2018-06-08T06:21:01Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-the-fredder/?attribute_storlek=L",
+          "sku": "",
+          "price": "169",
+          "regular_price": "169",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12729,
+              "created_at": "2018-06-05T11:54:20Z",
+              "updated_at": "2018-06-05T11:54:20Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/TheFredder2.jpg",
+              "title": "T-shirt &#8211; The Fredder 1",
+              "alt": "T-shirt - The Fredder",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "L"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12841,
+          "created_at": "2018-06-08T06:21:01Z",
+          "updated_at": "2018-06-08T06:21:01Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-the-fredder/?attribute_storlek=XL",
+          "sku": "",
+          "price": "169",
+          "regular_price": "169",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12729,
+              "created_at": "2018-06-05T11:54:20Z",
+              "updated_at": "2018-06-05T11:54:20Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/TheFredder2.jpg",
+              "title": "T-shirt &#8211; The Fredder 1",
+              "alt": "T-shirt - The Fredder",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": "XL"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        },
+        {
+          "id": 12842,
+          "created_at": "2018-06-08T06:21:01Z",
+          "updated_at": "2018-06-08T06:21:01Z",
+          "downloadable": false,
+          "virtual": false,
+          "permalink": "http://www.borasbasket.se/product/t-shirt-the-fredder/?attribute_storlek=%C2%A0XXL",
+          "sku": "",
+          "price": "169",
+          "regular_price": "169",
+          "sale_price": null,
+          "taxable": true,
+          "tax_status": "taxable",
+          "tax_class": "",
+          "managing_stock": false,
+          "stock_quantity": null,
+          "in_stock": true,
+          "backorders_allowed": false,
+          "backordered": false,
+          "purchaseable": true,
+          "visible": true,
+          "on_sale": false,
+          "weight": null,
+          "dimensions": {
+            "length": "",
+            "width": "",
+            "height": "",
+            "unit": "cm"
+          },
+          "shipping_class": "",
+          "shipping_class_id": null,
+          "image": [
+            {
+              "id": 12729,
+              "created_at": "2018-06-05T11:54:20Z",
+              "updated_at": "2018-06-05T11:54:20Z",
+              "src": "http://www.borasbasket.se/wp-content/uploads/2018/06/TheFredder2.jpg",
+              "title": "T-shirt &#8211; The Fredder 1",
+              "alt": "T-shirt - The Fredder",
+              "position": 0
+            }
+          ],
+          "attributes": [
+            {
+              "name": "Storlek",
+              "slug": "storlek",
+              "option": " XXL"
+            }
+          ],
+          "downloads": [],
+          "download_limit": -1,
+          "download_expiry": -1
+        }
+      ],
+      "parent": [],
+      "grouped_products": [],
+      "menu_order": 38
+    }
+  ]
+}

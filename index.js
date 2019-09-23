@@ -8,8 +8,8 @@ const WooCommerceAPI = require('woocommerce-api');
 // Api inställningar
 let WooCommerce = new WooCommerceAPI({
   url: 'http://www.borasbasket.se',
-  consumerKey: 'ck_2eb96f8a2ed6901e72509b4f19da24cd9a8f5bf4',
-  consumerSecret: 'cs_aa8595cc3ca7533624dfa29def652c1931cb282d',
+  consumerKey: 'hemligt',
+  consumerSecret: 'superhemligt',
   version: 'v3'
 });
 
